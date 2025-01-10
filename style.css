@@ -82,7 +82,7 @@ h1 {
         position: absolute;
         width: 160px;
         height: 60px;
-        background: yellowgreen;
+        background: white;
         z-index: 1;
         overflow: hidden;
         -webkit-transition: .4s .2s;
